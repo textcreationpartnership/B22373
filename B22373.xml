@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[By the right honourable the House of] Commons. Die Lunae, 3. Januar. 1641. It is this day ordered upon the question, by the Commons House of Parliament; that if any persons whatsoever, shall come to the lodgings of any member of this House, and there doe offer to seale the trunks, doores, or papers of any members of this House, or to seize upon their persons; ...</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22373</idno><idno type="EEBO-CITATION">99885499_186525</idno>
+  <idno type="VID">186525</idno>
+  <idno type="EEBO-PROQUEST">2248534995</idno>
+  
+            <idno type="STC">Wing E2617bA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[47]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.h.4[68]</idno>
+            <idno type="STC">ESTC R224215</idno>
+            <idno type="PROQUEST">ocm99885499</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885499e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186525)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[46]; C5:1[68])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[By the right honourable the House of] Commons. Die Lunae, 3. Januar. 1641. It is this day ordered upon the question, by the Commons House of Parliament; that if any persons whatsoever, shall come to the lodgings of any member of this House, and there doe offer to seale the trunks, doores, or papers of any members of this House, or to seize upon their persons; ...</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By a perfect coppy,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>The years are given according to Lady Day dating.</note>
+                  <note>Includes: The declaration agreed upon by the committee of the House of Commons appointed to sit in the Guildhall in London, to consider the safety of the kingdome, and of the city of London.</note>
+                  <note>Imperfect: item at C3:1[46] trimmed at head affecting title; item at C5:1[68] trimmed at head and foot affecting title and imprint.  Title and imprint data taken from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Detention of persons --  England --  Early works to 1800.</term>
+               <term type="topical_term">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186525:1"/>
+            <pb facs="tcp:186525:1"/>
+            <head>
+               <gap reason="illegible" resp="#murp" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> COMMONS.</head>
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 3. Januar. 1641.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered upon the Question, by the Commons House of Parliament; That if any persons whatsoever, shall come to the lodg<g ref="char:EOLhyphen"/>ings of any Member of this House, and there doe offer to seale the Trunks, Doores, or Papers of any Members of this House, or to seize upon their per<g ref="char:EOLhyphen"/>sons; That then such Members shall require the aide of the Constable to keepe such persons in safe custody, till this House doe give further Order.</p>
+            <p>And this House doth further declare, That if a<g ref="char:EOLhyphen"/>ny person whatsoever shall offer to arrest or de<g ref="char:EOLhyphen"/>tain the person of any Member of this House, with<g ref="char:EOLhyphen"/>out first acquainting this house therewith, and re<g ref="char:EOLhyphen"/>ceiving further Order from this house; That it is lawfull for such Member, or any person, to assist him, and to stand upon his, and their guard of de<g ref="char:EOLhyphen"/>fence, and to make resistance, according to the Pro<g ref="char:EOLhyphen"/>testation taken to defend the priviledges of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <closer>
+               <signed>
+                  <hi>H. Elsynge</hi> Cler. Par. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The Declaration agreed upon by the Committee of the House of Commons appointed to sit in the Guildhall in London, to consider of the safety of the Kingdome, and of the City of London. And of the preserving the Pri<g ref="char:EOLhyphen"/>viledges of Parliament.</head>
+            <opener>
+               <dateline>Master <hi>Wilde</hi> Serieant at Law, sitting in the Chaire of that Committee. <date>
+                     <hi>6. Ian. 1641.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>VVHereas the Chambers, Studies, and Truncks of <hi>M. Hollis, Sir Arthur Hasle<g ref="char:EOLhyphen"/>rige, M. Pym, M. Hampden,</hi> and <hi>M. Stroude,</hi> Members of the House of Commons, upon Mun<g ref="char:EOLhyphen"/>day: the third of this instant <hi>Ianuary,</hi> by colour of his Majesties Warrant have beene sealed up by Sir <hi>William Kilegrey,</hi> and Sir <hi>William Flemen</hi> and others; which is not onely against the priviledge of Parlia<g ref="char:EOLhyphen"/>ment, but the common Libertie of every Subject; Which said Members afterwards the same day were under the like colour, by Serjeant <hi>Frances,</hi> one of his Majesties Serjeants at Armes, contrary to all former presidents and priviledges of parliaments, deman<g ref="char:EOLhyphen"/>ded of the Speaker sitting in the house of Cōmons to be delivered unto him that he might arrest them of high Treason: And whereas afterwards the next day His Majestie in his Royall person came to the said House attended with a great multitude of men armed in warlike manner, with halberts, swords, and pistols, who came up to the very doore of the House and placed themselves there and in o<g ref="char:EOLhyphen"/>ther places and passages neere to the said House, to the great terror and disturbance of the Members thereof, then sitting, and, according to their duty, in a peaceable and orderly manner, treating of the great Affaires of England and Ireland; And his Ma<g ref="char:EOLhyphen"/>jestie having placed himselfe in the Speakers Chair, demanded of them the persons of the said Mem<g ref="char:EOLhyphen"/>bers to be delivered unto him, which is a high breach of the Rights and Priviledges of Parliament, and inconsistent with the Liberties, and Freedome thereof. And whereas afterwards his Majestie did issue forth severall Warrants to divers Officers, un<g ref="char:EOLhyphen"/>der his owne hand, for the apprehension of the per<g ref="char:EOLhyphen"/>sons of the said Members, which by Law he cannot <gap reason="illegible" resp="#murp" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> or accusation, or due Processes of Law issued a<g ref="char:EOLhyphen"/>gainst them, nor any pretence of charge made known to that House; all which are against the Fundamentall Liberties of the Subject, and the Rights of Parliament. Whereupon we are necessi<g ref="char:EOLhyphen"/>tated, according to our dutie, to declare, That if a<g ref="char:EOLhyphen"/>ny person shall arrest <hi>M. Hollis, Sir Arthur Haslerige, M. Pym, M. Hampden, M. Stroude,</hi> or any of them, or a<g ref="char:EOLhyphen"/>ny other Member of Parliament, by pretence or co<g ref="char:EOLhyphen"/>lour of any Warrant issuing out from the King one<g ref="char:EOLhyphen"/>ly, is guilty of the breach of the Liberties of the Subiect, and of the Priviledge of Parliament, and a publike enemie to the Common-wealth. And that the Arresting of the said Members, or any of them, or of any other Member of Parliament, by any Warrant whatsoever, without a Legall proceeding against them, and without consent of that House, whereof such person is a Member, is against the li<g ref="char:EOLhyphen"/>berty of the Subiect, and a breach of priviledge of Parliament: and the person which shall arrest any of these persons, or any other Member of the par<g ref="char:EOLhyphen"/>liament, is declared a publike enemy of the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <p>Notwithstanding all which, we thinke fit fur<g ref="char:EOLhyphen"/>ther to declare, that we are so farre from any endea<g ref="char:EOLhyphen"/>vour to protect any of our Members, that shall be in due manner prosecuted according to the Lawes of the Kingdome, and the Rights and priviledges of Parliament for Treason, or any other misdemea<g ref="char:EOLhyphen"/>nour, That none shall be more ready and willing then we our selves; to bring them to their speedy &amp; due triall, Being sensible, that it equally imports us, as well to see Iustice done against them that are cri<g ref="char:EOLhyphen"/>minous, as to defend the iust Rights and Liberties of the Subiects, and parliament of <hi>England.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
